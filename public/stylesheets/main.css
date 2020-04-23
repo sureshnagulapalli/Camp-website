@@ -1,4 +1,4 @@
-/* langind page header */
+/* landing page header */
 #landing-header {
   z-index: 1;
   position: relative;
@@ -10,7 +10,7 @@
   color: #fff;
 }
 
-/* langind page image */
+/* landing page image */
 .bg_img {
     background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url(http://i.imgur.com/2LSMCmJ.jpg);
     background-size: cover;
