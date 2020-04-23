@@ -52,6 +52,6 @@ app.use("/campground", campgroundRoutes);
 app.use("/campground/:id/comments", commentRoutes);
 
 
-app.listen(3000 || process.env.PORT, process.env.IP, () =>{
+app.listen(process.env.PORT, process.env.IP, () =>{
 	console.log("CampR has started");
 });
